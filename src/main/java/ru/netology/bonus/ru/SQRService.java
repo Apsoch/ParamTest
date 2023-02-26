@@ -1,4 +1,4 @@
-package ru.netology.bonus;
+package ru.netology.bonus.ru;
 
 public class SQRService {
   public int calculateNumberSquares (int upperBorder, int bottomBorder) {
